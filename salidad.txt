@@ -1,0 +1,8 @@
+ -- Se recupero de errores
+CaMbiaso  -- No se encontraron errores
+dolares RecIBiRA es EN fRANCO  -- No se encontraron errores
+recibira  -- No se encontraron errores
+es  -- No se encontraron errores
+en  -- No se encontraron errores
+franco  -- No se encontraron errores
+ -- Se recupero de errores
